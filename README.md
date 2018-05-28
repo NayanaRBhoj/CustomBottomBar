@@ -1,2 +1,2 @@
 # CustomBottomBar
-Custom BottomBar using TabLayout with selecyed and unselected tabs
+Custom BottomBar using TabLayout with selected and unselected tabs
